@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "541306690870",
+    "project_id": "firestore-61324",
+    "storage_bucket": "firestore-61324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541306690870:android:92125acfa71a5b7f362797",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5oiT7ObWi-thdXpwJXPrlDGO2f8mJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541306690870:android:740a725b5bdb664b362797",
+        "android_client_info": {
+          "package_name": "com.example.flutter_instagram_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5oiT7ObWi-thdXpwJXPrlDGO2f8mJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541306690870:android:d421f144a74afed2362797",
+        "android_client_info": {
+          "package_name": "com.example.insta_clone_version"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5oiT7ObWi-thdXpwJXPrlDGO2f8mJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541306690870:android:3fd9d92d125852e9362797",
+        "android_client_info": {
+          "package_name": "com.example.last_project_16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5oiT7ObWi-thdXpwJXPrlDGO2f8mJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541306690870:android:c1157a4bf71891b3362797",
+        "android_client_info": {
+          "package_name": "com.example.main_project_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5oiT7ObWi-thdXpwJXPrlDGO2f8mJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541306690870:android:92498785b5e7ea9b362797",
+        "android_client_info": {
+          "package_name": "com.example.movie_box_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL5oiT7ObWi-thdXpwJXPrlDGO2f8mJac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
